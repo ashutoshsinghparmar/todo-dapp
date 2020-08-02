@@ -2,7 +2,8 @@
 A todo list based on blockchain
 
 Tech Stack:
-1. NodeJS
+1. NodeJS, npm
+2. Solidity: Writting Smart Contract
 2. Ganach for Dev Purpose Blockchain
 3. Truffle Framework(npm package): To Develop Smart Contract in Solidity Programming Language
 4. Metamask: Extension on browser
