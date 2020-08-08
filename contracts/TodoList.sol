@@ -12,7 +12,8 @@ contract TodoList {
     mapping(uint => Task) public tasks;
 
     constructor() public {
-        createTask("Default Task");
+        createTask("Default Task 1");
+        createTask("Default Task 2");
     }
 
     function createTask(string memory _content) public {
